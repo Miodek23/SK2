@@ -1,0 +1,4 @@
+admin	admin
+login	1234
+user	user
+student	student
